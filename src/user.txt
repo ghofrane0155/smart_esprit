@@ -1,0 +1,7 @@
+hamza hichri 09891470 Homme 22 28815369 hamza.hichri@esprit.tn Agent_de_foyer
+ Hammami Motaz 000 Homme 21 51123456 motaz.hammami@esprit.tn Adminstrateur
+ Rahmouni Ghofrane 001 Femme 20 50123456 ghofrane.rahmouni@esprit.tn Agent_de_restaurant
+ Hamdi Yahya 002 Homme 22 20000000 yahya.hamdi@esprit.tn Etudiant
+ Gabsi Raed 003 Homme 22 12345678 raed.gabsi@esprit.tn Technicien
+ Kchaou Yesmin 004 Femme 22 12345678 yesmin.kchaou@esprit.tn Nutritionniste
+Ferchichi Arbi 005 Homme 20 25000000 ari.ferchichi@esprit.tn Agent_de_foyer

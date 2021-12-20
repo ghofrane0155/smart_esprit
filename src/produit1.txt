@@ -1,0 +1,5 @@
+l001 pomme-de-terre Legumes Kg 07/12/2021 B 3 14 11 11/11/2021 80 30 OK Marché 2,500000 
+l002 Carrotes Legumes Kg 07/01/2022 B 0 0 0 11/11/2021 50 10 Alerté!! Marché 1,300000 
+h003 Persil Produit_congelés botte 04/04/2022 ABC 0 70 70 11/12/2021 100 50 Alerté!! Marché 0,400000 
+i004 sel Ingrédiants botte 07/01/2023 ABC 3 3 0 13/10/2021 20 5 Alerté!! Marché 0,500000 
+bb bb Legumes unité 01/01/2021 B 2 2 0 01/01/2021 1 1 OK bb 55,000000 
